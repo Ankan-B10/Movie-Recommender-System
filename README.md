@@ -31,7 +31,7 @@ A powerful and intelligent movie recommendation system built with Python and Str
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/Movie-Recommender-System.git
+git clone https://github.com/Ankan-B10/Movie-Recommender-System.git
 cd Movie-Recommender-System
 ```
 
